@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/asif2920/project-excel-file-creation#readme",
   "dependencies": {
-    "excel4node": "^1.7.2",
+    "excel4node": "^1.8.0",
     "exceljs": "^3.6.1",
     "msexcel-builder": "0.0.2"
   },
